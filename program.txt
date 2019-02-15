@@ -8,3 +8,6 @@ show() {
 string name ='小飞牛';
 method(name);
 }
+load(){
+print"my name is laqu";
+}
