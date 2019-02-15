@@ -2,5 +2,9 @@ Main(){
 print "hello word"
 }
 metho(){
-print "my name is 未雨绸缪"
+print "my name is" + name;
+}
+show() {
+string name ='小飞牛';
+method(name);
 }
